@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/spf13/cobra"
-	"github.com/stefanprodan/k8s-podinfo/pkg/version"
+	"github.com/pramodbijani/k8s-podinfo/pkg/version"
 )
 
 func init() {
